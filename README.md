@@ -12,4 +12,4 @@ Join us on this virtual adventure. Take a seat, relax, and be part of the luxury
 
 check store links or video description
 [ video link = https://www.youtube.com/watch?v=5-c6ZwSVfsg&t=196s]
-[ store link = [GitHub - jimgordon20/jim_g_best_bench_project.pack](https://crimson-test.tebex.io)]
+[ store link = [https://crimson-test.tebex.io]
