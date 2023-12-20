@@ -11,5 +11,5 @@ your time at the Golden Bench Ymap is not just a visit—it’s an ever-expandin
 Join us on this virtual adventure. Take a seat, relax, and be part of the luxury that awaits you!
 
 check store links or video description
-[ video link = https://www.youtube.com/watch?v=5-c6ZwSVfsg&t=196s 3 ]
-[ store link = [GitHub - jimgordon20/jim_g_best_bench_project.pack 1](https://crimson-test.tebex.io)]
+[ video link = https://www.youtube.com/watch?v=5-c6ZwSVfsg&t=196s]
+[ store link = [GitHub - jimgordon20/jim_g_best_bench_project.pack](https://crimson-test.tebex.io)]
