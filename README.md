@@ -10,6 +10,6 @@ your time at the Golden Bench Ymap is not just a visit—it’s an ever-expandin
 
 Join us on this virtual adventure. Take a seat, relax, and be part of the luxury that awaits you!
 
-check store links or video description
+ video description
 [ video link = https://www.youtube.com/watch?v=5-c6ZwSVfsg&t=196s]
-[ store link = [https://crimson-test.tebex.io]
+
